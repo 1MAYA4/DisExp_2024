@@ -24,3 +24,5 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 ### Tareas
 + Examen 1 (22/05/2024)
 + Examen 2 (20/05/2024)
+
+![Captura de pantalla (1)](https://github.com/1MAYA4/DisExp_2024/assets/166638870/b0b335d2-9e1e-446e-a753-111be70270e1)
